@@ -1,12 +1,10 @@
 {
-    "name": "stylnash/template",
+    "name": "weblamas/template_docs",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "karepinandrei@gmail.com"
+            "name": "Karepin Andrei",
+            "email": "info@weblamas.com"
         }
     ],
-    "require": {
-        "erusev/parsedown": "^1.7"
-    }
+    "require": {}
 }
