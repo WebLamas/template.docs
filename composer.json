@@ -1,0 +1,12 @@
+{
+    "name": "stylnash/template",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "karepinandrei@gmail.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "^1.7"
+    }
+}
